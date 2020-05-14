@@ -1,0 +1,23 @@
+{
+  "name": "care-eks-docs",
+  "version": "1.0.0",
+  "description": "GitBook docs for deploying Care Network on EKS",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farisshajahan/care-eks-docs.git"
+  },
+  "author": "Faris Shajahan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/farisshajahan/care-eks-docs/issues"
+  },
+  "homepage": "https://github.com/farisshajahan/care-eks-docs#readme"
+}
